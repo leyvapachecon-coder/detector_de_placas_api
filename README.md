@@ -40,6 +40,9 @@ Por ultimo, dentro del archivo llamado ""pubspec.yaml, dirijase hacia donde dice
   - lo siguiente seria irse a configuraciones -> sistema y actualizaciones -> opciones de desarrollador -> y active la opcion de "Depuracion USB"
   - los iguiente seria ya la prueba, para eso, conecte su celular a su computadora mediante un cable (preferiblemente el de su cargador) y dele permisos al celular (transferencia de           archivos, depuracion usb) y su celular ya estaria listo para poder correr la aplicacion flutter
   - para ver si todo esta en orden y si su celular esta listo para poder depurar la aplicacion, dirijase a su CDM y coloque el siguiente comando:"flutter devices" y si su dispositivo          aparece ahi, todo esta en orden y correctamente instalado listo para poder correr la aplicacion.
+
+ - si quiere correr la aplicacion, dirijase al apartado donde tiene abierto el flutter, en consola ponga el siguiente comando "flutter run", y dele los permisos al celular para poder correr la aplicacion, y se abrira inmediatamente
+ - como nota extra en dado caso que no funcione el envio de la foto al servidor, tenga en cuenta que el cel y la computadora tienen que estar en la misma conexion de internet, para eso, dirijase a CDM y coloque el siguiente comando "ipconfig" y esa red tiene que estar conectada con su cel. en el celular, dirijase a wifi, y entre a su conexion a internet y verifique que todo este sincronizado, y ya deberia de funcionar el envio al servidor.
    
   !exito¡
 
